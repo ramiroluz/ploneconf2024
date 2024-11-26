@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.pyc
 *.pyo
 *.tmp*
@@ -16,3 +17,10 @@ fake-eggs/
 parts/
 dist/
 var/
+=======
+!.vscode
+node_modules
+/core
+/public
+*.mo
+>>>>>>> 19e0418 (Initial commit)
